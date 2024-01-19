@@ -1,10 +1,16 @@
-🇬🇧 [**Moodle Enrolment Duration Block (EN)**](#moodle-enrolment-duration-block-en)
+# LINKS
+
+🇬🇧 English
+
+[**Moodle Enrolment Duration Block (EN)**](#moodle-enrolment-duration-block-en)
 
 - [Future Features](#future-features)
 - [Installation](#installation)
 - [Usage](#usage)
 
-🇷🇺 [**Блок "Срок зачисления" в Moodle (RU)**](#блок-срок-зачисления-в-moodle-ru)
+🇷🇺 Russian
+
+[**Блок "Срок зачисления" в Moodle (RU)**](#блок-срок-зачисления-в-moodle-ru)
 
 - [Будущие возможности](#будущие-возможности)
 - [Установка](#установка)
