@@ -1,3 +1,15 @@
+[**Moodle Enrolment Duration Block (EN)**](#moodle-enrolment-duration-block-en)
+
+- [Future Features](#future-features)
+- [Installation](#installation)
+- [Usage](#usage)
+
+[**Блок "Срок зачисления" в Moodle (RU)**](#блок-срок-зачисления-в-moodle-ru)
+
+- [Будущие возможности](#будущие-возможности)
+- [Установка](#установка)
+- [Использование](#использование)
+
 # Moodle Enrolment Duration Block (EN)
 
 This Moodle plugin displays the remaining days in the user's enrolment in a course and provides the date when the enrolment is set to end.
@@ -29,7 +41,6 @@ To use this plugin, follow these steps:
 4. Find and choose "Enrolment Duration" from the list; it will appear below the "+ Add block" button.
 5. Optionally, customize the block by configuring settings such as the block's name and providing a link to additional information.
 6. The "Enrolment Duration" block will now be visible to students with limited access in the course, displaying the remaining days and the end date of their enrolment.
-
 
 # Блок "Срок зачисления" в Moodle (RU)
 
